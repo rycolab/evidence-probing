@@ -1,0 +1,7 @@
+data:
+  pareto_datasets_root: pareto-probing/data/probekit/
+  superglue_datasets_root: data/
+  multinli_dataset_root: data/multinli_1.0/
+  ud_treebanks_root: pareto-probing/data/ud/ud-treebanks-v2.5/
+  ud_tags_file: data/tags.yaml
+  fasttext_root: pareto-probing/data/fasttext

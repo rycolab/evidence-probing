@@ -1,0 +1,6 @@
+name: bayesian-probing
+channels:
+  - plotly
+  - conda-forge
+dependencies:
+  - python=3.8

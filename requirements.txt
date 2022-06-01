@@ -1,0 +1,25 @@
+pyyaml
+mypy
+tqdm
+overrides
+flake8
+pycountry
+scipy
+scikit-learn
+backpack-for-pytorch
+torchvision
+torch==1.7.0
+pandas
+transformers~=4.5.1
+conllu
+termcolor
+nltk
+spacy
+sentencepiece
+
+# -f https://pytorch-geometric.com/whl/torch-1.7.0.html
+# torch-scatter==latest+cpu
+
+git+https://github.com/facebookresearch/fastText
+
+laplace-torch==0.1a1

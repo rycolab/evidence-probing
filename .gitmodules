@@ -1,0 +1,6 @@
+[submodule "pareto-probing"]
+	path = pareto-probing
+	url = git@github.com:ltorroba/pareto-probing.git
+[submodule "ud-compatibility"]
+	path = ud-compatibility
+	url = git@github.com:ltorroba/ud-compatibility.git
