@@ -1,6 +1,6 @@
-# Bayesian Probing
+# Probing as Quantifying Inductive Bias
 
-This is the repository for Bayesian probing.
+This is the repository for the ACL 2022 paper "Probing as Quantifying Inductive Bias".
 
 ## Setup
 
@@ -57,3 +57,22 @@ where:
 - `STRUCT` controls how the Laplace approximation is built, and must be set to either `kron` or `diag`.
 
 Some other handy flags are `--quiet` (to suppress most logging), and `--output-file` (to specify where experiment data should be saved).
+
+## Citation
+
+```
+@inproceedings{immer-etal-2022-probing,
+    title = "Probing as Quantifying Inductive Bias",
+    author = "Immer, Alexander  and
+      Torroba Hennigen, Lucas  and
+      Fortuin, Vincent  and
+      Cotterell, Ryan",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.acl-long.129",
+    pages = "1839--1851",
+}
+```
